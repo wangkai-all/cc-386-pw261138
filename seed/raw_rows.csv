@@ -1,0 +1,247 @@
+source_system,source_id,raw_value,canonical_hint
+CRM,SUP-0001,ACME GmbH,ACME GmbH
+Ledger,SUP-0002,ＡＣＭＥ　ＧｍｂＨ,ACME GmbH
+MDM,SUP-0003,ACME​ GmbH,ACME GmbH
+VendorPortal,SUP-0004,  acme   gmbh ,ACME GmbH
+LegacyAS400,SUP-0005,ACME  GMBH,ACME GmbH
+ERP,SUP-0006,ＡＣＭＥ　ＧＭＢＨ,ACME GmbH
+CRM,SUP-0007,Acme GmbH.,ACME GmbH
+Ledger,SUP-0008,Acme GmbH.,ACME GmbH
+MDM,SUP-0009,ＡＣＭＥ　ＧｍｂＨ,ACME GmbH
+VendorPortal,SUP-0010,Müller GmbH,Müller GmbH
+LegacyAS400,SUP-0011,MÜLLER GMBH,Müller GmbH
+ERP,SUP-0012,Muller GmbH,Müller GmbH
+CRM,SUP-0013,Ｍüｌｌｅｒ　GmbH,Müller GmbH
+Ledger,SUP-0014,Müller GmbH,Müller GmbH
+MDM,SUP-0015,Müller GmbH,Müller GmbH
+VendorPortal,SUP-0016,MÜLLER GMBH,Müller GmbH
+LegacyAS400,SUP-0017,北京华为技术有限公司,北京华为技术有限公司
+ERP,SUP-0018,北京 华为 技术 有限公司,北京华为技术有限公司
+CRM,SUP-0019,北京华为技术有限公司​,北京华为技术有限公司
+Ledger,SUP-0020,北京　华为　技术　有限公司,北京华为技术有限公司
+MDM,SUP-0021,北京 华为 技术 有限公司,北京华为技术有限公司
+VendorPortal,SUP-0022,北京 华为 技术 有限公司,北京华为技术有限公司
+LegacyAS400,SUP-0023,Software AG,SOFTWARE AG
+ERP,SUP-0024,SOFTWARE AG,SOFTWARE AG
+CRM,SUP-0025,Ｓｏｆｔｗａｒｅ　ＡＧ,SOFTWARE AG
+Ledger,SUP-0026,software ag,SOFTWARE AG
+MDM,SUP-0027,Ｓｏｆｔｗａｒｅ　ＡＧ,SOFTWARE AG
+VendorPortal,SUP-0028,Ｓｏｆｔｗａｒｅ　ＡＧ,SOFTWARE AG
+LegacyAS400,SUP-0029,ÀÉÎÕÜ Ltd,ÀÉÎÕÜ Ltd
+ERP,SUP-0030,AEIOU Ltd,ÀÉÎÕÜ Ltd
+CRM,SUP-0031,ＡＥＩＯＵ　Ｌｔｄ,ÀÉÎÕÜ Ltd
+Ledger,SUP-0032,ÀÉÎÕÜ Ltd,ÀÉÎÕÜ Ltd
+MDM,SUP-0033,AEIOU Ltd,ÀÉÎÕÜ Ltd
+VendorPortal,SUP-0034,Straße GmbH,Straße GmbH
+LegacyAS400,SUP-0035,STRASSE GMBH,Straße GmbH
+ERP,SUP-0036,STRASSE  GMBH,Straße GmbH
+CRM,SUP-0037,Straße​ GmbH,Straße GmbH
+Ledger,SUP-0038,Straße​ GmbH,Straße GmbH
+MDM,SUP-0039,Straße GmbH,Straße GmbH
+VendorPortal,SUP-0040,O'Reilly & Sons,O'Reilly & Sons
+LegacyAS400,SUP-0041,O’Reilly & Sons,O'Reilly & Sons
+ERP,SUP-0042,O'REILLY & SONS,O'Reilly & Sons
+CRM,SUP-0043,O'Reilly  &  Sons,O'Reilly & Sons
+Ledger,SUP-0044,O'Reilly & Sons,O'Reilly & Sons
+MDM,SUP-0045,O'REILLY & SONS,O'Reilly & Sons
+VendorPortal,SUP-0046,İstanbul Tekstil,İstanbul Tekstil
+LegacyAS400,SUP-0047,Istanbul Tekstil,İstanbul Tekstil
+ERP,SUP-0048,ISTANBUL TEKSTİL,İstanbul Tekstil
+CRM,SUP-0049,İSTANBUL TEKSTİL,İstanbul Tekstil
+Ledger,SUP-0050,ISTANBUL TEKSTİL,İstanbul Tekstil
+MDM,SUP-0051,ISTANBUL TEKSTİL,İstanbul Tekstil
+VendorPortal,SUP-0052,ΣΟΦΙΑ ΑΕ,ΣΟΦΙΑ ΑΕ
+LegacyAS400,SUP-0053,σοφια αε,ΣΟΦΙΑ ΑΕ
+ERP,SUP-0054,Σοφια  Αε,ΣΟΦΙΑ ΑΕ
+CRM,SUP-0055,ΣΟΦΙΑ ΑΕ,ΣΟΦΙΑ ΑΕ
+Ledger,SUP-0056,ΣΟΦΙΑ ΑΕ,ΣΟΦΙΑ ΑΕ
+MDM,SUP-0057,ΣΟΦΙΑ ΑΕ,ΣΟΦΙΑ ΑΕ
+VendorPortal,SUP-0058,,Empty-ish
+LegacyAS400,SUP-0059, ,Empty-ish
+ERP,SUP-0060,　,Empty-ish
+CRM,SUP-0061,​,Empty-ish
+Ledger,SUP-0062,​,Empty-ish
+MDM,SUP-0063,​,Empty-ish
+VendorPortal,AMB-0064,ACME-Corp,AMBIGUOUS:ACME-Corp
+LegacyAS400,AMB-0065,ACME Corp,AMBIGUOUS:ACME-Corp
+ERP,AMB-0066,ACME_Corp,AMBIGUOUS:ACME-Corp
+CRM,AMB-0067,Diyarbakır,AMBIGUOUS:Diyarbakır
+Ledger,AMB-0068,Diyarbakir,AMBIGUOUS:Diyarbakır
+MDM,AMB-0069,DIYARBAKIR,AMBIGUOUS:Diyarbakır
+VendorPortal,AMB-0070,Málaga,AMBIGUOUS:Málaga
+LegacyAS400,AMB-0071,Malaga,AMBIGUOUS:Málaga
+ERP,AMB-0072,MÀLAGA,AMBIGUOUS:Málaga
+CRM,AMB-0073,Shanghai-Huawei,AMBIGUOUS:Shanghai-Huawei
+Ledger,AMB-0074,Shanghai Huawei,AMBIGUOUS:Shanghai-Huawei
+MDM,AMB-0075,shanghai  huawei,AMBIGUOUS:Shanghai-Huawei
+VendorPortal,BULK-0076,Gamma Systems,Gamma Systems
+LegacyAS400,BULK-0077,OMEGA PARTNERS,Omega Partners
+ERP,BULK-0078,  gamma holdings  ,Gamma Holdings
+CRM,BULK-0079,Delta  Holdings,Delta Holdings
+Ledger,BULK-0080,Gamma Holdings,Gamma Holdings
+MDM,BULK-0081,DELTA HOLDINGS,Delta Holdings
+VendorPortal,BULK-0082,  beta systems  ,Beta Systems
+LegacyAS400,BULK-0083,Beta  Holdings,Beta Holdings
+ERP,BULK-0084,Beta Logistics,Beta Logistics
+CRM,BULK-0085,BETA SYSTEMS,Beta Systems
+Ledger,BULK-0086,  gamma logistics  ,Gamma Logistics
+MDM,BULK-0087,Omega  Partners,Omega Partners
+VendorPortal,BULK-0088,Gamma Trading,Gamma Trading
+LegacyAS400,BULK-0089,NOVA LOGISTICS,Nova Logistics
+ERP,BULK-0090,  beta holdings  ,Beta Holdings
+CRM,BULK-0091,Gamma  Trading,Gamma Trading
+Ledger,BULK-0092,Nova Systems,Nova Systems
+MDM,BULK-0093,OMEGA INDUSTRIES,Omega Industries
+VendorPortal,BULK-0094,  orion logistics  ,Orion Logistics
+LegacyAS400,BULK-0095,Gamma  Industries,Gamma Industries
+ERP,BULK-0096,Omega Industries,Omega Industries
+CRM,BULK-0097,DELTA TRADING,Delta Trading
+Ledger,BULK-0098,  alpha industries  ,Alpha Industries
+MDM,BULK-0099,Nova  Systems,Nova Systems
+VendorPortal,BULK-0100,Orion Trading,Orion Trading
+LegacyAS400,BULK-0101,ORION INDUSTRIES,Orion Industries
+ERP,BULK-0102,  alpha systems  ,Alpha Systems
+CRM,BULK-0103,Omega  Trading,Omega Trading
+Ledger,BULK-0104,GAMMA HOLDINGS,Gamma Holdings
+MDM,BULK-0105,Omega  Systems,Omega Systems
+VendorPortal,BULK-0106,Omega Logistics,Omega Logistics
+LegacyAS400,BULK-0107,NOVA PARTNERS,Nova Partners
+ERP,BULK-0108,Nova  Industries,Nova Industries
+CRM,BULK-0109,Nova Trading,Nova Trading
+Ledger,BULK-0110,ALPHA INDUSTRIES,Alpha Industries
+MDM,BULK-0111,  nova systems  ,Nova Systems
+VendorPortal,BULK-0112,Delta  Industries,Delta Industries
+LegacyAS400,BULK-0113,Vega Logistics,Vega Logistics
+ERP,BULK-0114,VEGA HOLDINGS,Vega Holdings
+CRM,BULK-0115,  delta systems  ,Delta Systems
+Ledger,BULK-0116,Delta  Logistics,Delta Logistics
+MDM,BULK-0117,Vega Trading,Vega Trading
+VendorPortal,BULK-0118,VEGA INDUSTRIES,Vega Industries
+LegacyAS400,BULK-0119,  vega holdings  ,Vega Holdings
+ERP,BULK-0120,Alpha Systems,Alpha Systems
+CRM,BULK-0121,NOVA INDUSTRIES,Nova Industries
+Ledger,BULK-0122,  delta partners  ,Delta Partners
+MDM,BULK-0123,Beta  Systems,Beta Systems
+VendorPortal,BULK-0124,Alpha Logistics,Alpha Logistics
+LegacyAS400,BULK-0125,GAMMA TRADING,Gamma Trading
+ERP,BULK-0126,  vega trading  ,Vega Trading
+CRM,BULK-0127,Alpha  Industries,Alpha Industries
+Ledger,BULK-0128,Orion Systems,Orion Systems
+MDM,BULK-0129,  vega industries  ,Vega Industries
+VendorPortal,BULK-0130,Vega  Industries,Vega Industries
+LegacyAS400,BULK-0131,Alpha Partners,Alpha Partners
+ERP,BULK-0132,DELTA PARTNERS,Delta Partners
+CRM,BULK-0133,  beta logistics  ,Beta Logistics
+Ledger,BULK-0134,Alpha  Trading,Alpha Trading
+MDM,BULK-0135,GAMMA PARTNERS,Gamma Partners
+VendorPortal,BULK-0136,  omega holdings  ,Omega Holdings
+LegacyAS400,BULK-0137,Delta  Trading,Delta Trading
+ERP,BULK-0138,OMEGA HOLDINGS,Omega Holdings
+CRM,BULK-0139,  orion industries  ,Orion Industries
+Ledger,BULK-0140,GAMMA INDUSTRIES,Gamma Industries
+MDM,BULK-0141,Gamma  Systems,Gamma Systems
+VendorPortal,BULK-0142,ALPHA HOLDINGS,Alpha Holdings
+LegacyAS400,BULK-0143,  nova logistics  ,Nova Logistics
+ERP,BULK-0144,Omega Trading,Omega Trading
+CRM,BULK-0145,NOVA SYSTEMS,Nova Systems
+Ledger,BULK-0146,  delta logistics  ,Delta Logistics
+MDM,BULK-0147,Orion Logistics,Orion Logistics
+VendorPortal,BULK-0148,ALPHA SYSTEMS,Alpha Systems
+LegacyAS400,BULK-0149,  beta industries  ,Beta Industries
+ERP,BULK-0150,Delta Systems,Delta Systems
+CRM,BULK-0151,VEGA TRADING,Vega Trading
+Ledger,BULK-0152,  omega trading  ,Omega Trading
+MDM,BULK-0153,Nova  Trading,Nova Trading
+VendorPortal,BULK-0154,  nova holdings  ,Nova Holdings
+LegacyAS400,BULK-0155,Vega  Trading,Vega Trading
+ERP,BULK-0156,Vega Partners,Vega Partners
+CRM,BULK-0157,Nova  Logistics,Nova Logistics
+Ledger,BULK-0158,Beta Systems,Beta Systems
+MDM,BULK-0159,Orion  Industries,Orion Industries
+VendorPortal,BULK-0160,Delta Logistics,Delta Logistics
+LegacyAS400,BULK-0161,  orion holdings  ,Orion Holdings
+ERP,BULK-0162,Vega  Systems,Vega Systems
+CRM,BULK-0163,ORION LOGISTICS,Orion Logistics
+Ledger,BULK-0164,Omega  Holdings,Omega Holdings
+MDM,BULK-0165,Nova Holdings,Nova Holdings
+VendorPortal,BULK-0166,VEGA PARTNERS,Vega Partners
+LegacyAS400,BULK-0167,  delta trading  ,Delta Trading
+ERP,BULK-0168,Beta  Logistics,Beta Logistics
+CRM,BULK-0169,Omega Holdings,Omega Holdings
+Ledger,BULK-0170,OMEGA SYSTEMS,Omega Systems
+MDM,BULK-0171,Alpha Holdings,Alpha Holdings
+VendorPortal,BULK-0172,GAMMA SYSTEMS,Gamma Systems
+LegacyAS400,BULK-0173,  vega systems  ,Vega Systems
+ERP,BULK-0174,Vega Industries,Vega Industries
+CRM,BULK-0175,BETA TRADING,Beta Trading
+Ledger,BULK-0176,  omega systems  ,Omega Systems
+MDM,BULK-0177,Beta Partners,Beta Partners
+VendorPortal,BULK-0178,VEGA LOGISTICS,Vega Logistics
+LegacyAS400,BULK-0179,  gamma industries  ,Gamma Industries
+ERP,BULK-0180,OMEGA TRADING,Omega Trading
+CRM,BULK-0181,  vega logistics  ,Vega Logistics
+Ledger,BULK-0182,Delta Holdings,Delta Holdings
+MDM,BULK-0183,  delta industries  ,Delta Industries
+VendorPortal,BULK-0184,Delta Partners,Delta Partners
+LegacyAS400,BULK-0185,DELTA INDUSTRIES,Delta Industries
+ERP,BULK-0186,Orion  Partners,Orion Partners
+CRM,BULK-0187,Alpha Industries,Alpha Industries
+Ledger,BULK-0188,Orion  Logistics,Orion Logistics
+MDM,BULK-0189,Beta Holdings,Beta Holdings
+VendorPortal,BULK-0190,Orion  Trading,Orion Trading
+LegacyAS400,BULK-0191,Delta Trading,Delta Trading
+ERP,BULK-0192,Gamma  Holdings,Gamma Holdings
+CRM,BULK-0193,Beta Industries,Beta Industries
+Ledger,BULK-0194,GAMMA LOGISTICS,Gamma Logistics
+MDM,BULK-0195,  alpha partners  ,Alpha Partners
+VendorPortal,BULK-0196,  omega partners  ,Omega Partners
+LegacyAS400,BULK-0197,Nova  Holdings,Nova Holdings
+ERP,BULK-0198,ALPHA LOGISTICS,Alpha Logistics
+CRM,BULK-0199,Gamma  Logistics,Gamma Logistics
+Ledger,BULK-0200,  omega industries  ,Omega Industries
+MDM,BULK-0201,Gamma Partners,Gamma Partners
+VendorPortal,BULK-0202,BETA PARTNERS,Beta Partners
+LegacyAS400,BULK-0203,  nova partners  ,Nova Partners
+ERP,BULK-0204,Beta  Industries,Beta Industries
+CRM,BULK-0205,  beta trading  ,Beta Trading
+Ledger,BULK-0206,  orion systems  ,Orion Systems
+MDM,BULK-0207,Alpha  Systems,Alpha Systems
+VendorPortal,BULK-0208,Nova Industries,Nova Industries
+LegacyAS400,BULK-0209,Vega  Partners,Vega Partners
+ERP,BULK-0210,ORION SYSTEMS,Orion Systems
+CRM,BULK-0211,ALPHA PARTNERS,Alpha Partners
+Ledger,BULK-0212,  vega partners  ,Vega Partners
+MDM,BULK-0213,  delta holdings  ,Delta Holdings
+VendorPortal,BULK-0214,ORION TRADING,Orion Trading
+LegacyAS400,BULK-0215,  nova trading  ,Nova Trading
+ERP,BULK-0216,Delta Industries,Delta Industries
+CRM,BULK-0217,Alpha  Holdings,Alpha Holdings
+Ledger,BULK-0218,Alpha Trading,Alpha Trading
+MDM,BULK-0219,BETA LOGISTICS,Beta Logistics
+VendorPortal,BULK-0220,Nova Partners,Nova Partners
+LegacyAS400,BULK-0221,ORION PARTNERS,Orion Partners
+ERP,BULK-0222,Orion Partners,Orion Partners
+CRM,BULK-0223,OMEGA LOGISTICS,Omega Logistics
+Ledger,BULK-0224,Alpha  Partners,Alpha Partners
+MDM,BULK-0225,  alpha holdings  ,Alpha Holdings
+VendorPortal,BULK-0226,Omega Systems,Omega Systems
+LegacyAS400,BULK-0227,Nova  Partners,Nova Partners
+ERP,BULK-0228,Nova Logistics,Nova Logistics
+CRM,BULK-0229,  orion partners  ,Orion Partners
+Ledger,BULK-0230,Omega  Industries,Omega Industries
+MDM,BULK-0231,Beta Trading,Beta Trading
+VendorPortal,BULK-0232,ORION HOLDINGS,Orion Holdings
+LegacyAS400,BULK-0233,  alpha logistics  ,Alpha Logistics
+ERP,BULK-0234,Beta  Trading,Beta Trading
+CRM,BULK-0235,Vega  Logistics,Vega Logistics
+Ledger,BULK-0236,Alpha  Logistics,Alpha Logistics
+MDM,BULK-0237,Vega Systems,Vega Systems
+VendorPortal,BULK-0238,VEGA SYSTEMS,Vega Systems
+LegacyAS400,BULK-0239,Omega Partners,Omega Partners
+ERP,BULK-0240,DELTA LOGISTICS,Delta Logistics
+CRM,BULK-0241,Omega  Logistics,Omega Logistics
+Ledger,BULK-0242,  gamma systems  ,Gamma Systems
+MDM,BULK-0243,  alpha trading  ,Alpha Trading
+VendorPortal,BULK-0244,Orion  Holdings,Orion Holdings
+LegacyAS400,BULK-0245,Vega  Holdings,Vega Holdings
+ERP,BULK-0246,Orion Industries,Orion Industries

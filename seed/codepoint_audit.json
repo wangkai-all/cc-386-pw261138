@@ -1,0 +1,302 @@
+[
+  {
+    "raw": "ＡＣＭＥ　ＧｍｂＨ",
+    "escaped": "\\uff21\\uff23\\uff2d\\uff25\\u3000\\uff27\\uff4d\\uff42\\uff28",
+    "codepoints": [
+      {
+        "char": "Ａ",
+        "codepoint": "U+FF21",
+        "name": "FULLWIDTH LATIN CAPITAL LETTER A"
+      },
+      {
+        "char": "Ｃ",
+        "codepoint": "U+FF23",
+        "name": "FULLWIDTH LATIN CAPITAL LETTER C"
+      },
+      {
+        "char": "Ｍ",
+        "codepoint": "U+FF2D",
+        "name": "FULLWIDTH LATIN CAPITAL LETTER M"
+      },
+      {
+        "char": "Ｅ",
+        "codepoint": "U+FF25",
+        "name": "FULLWIDTH LATIN CAPITAL LETTER E"
+      },
+      {
+        "char": "　",
+        "codepoint": "U+3000",
+        "name": "IDEOGRAPHIC SPACE"
+      },
+      {
+        "char": "Ｇ",
+        "codepoint": "U+FF27",
+        "name": "FULLWIDTH LATIN CAPITAL LETTER G"
+      },
+      {
+        "char": "ｍ",
+        "codepoint": "U+FF4D",
+        "name": "FULLWIDTH LATIN SMALL LETTER M"
+      },
+      {
+        "char": "ｂ",
+        "codepoint": "U+FF42",
+        "name": "FULLWIDTH LATIN SMALL LETTER B"
+      },
+      {
+        "char": "Ｈ",
+        "codepoint": "U+FF28",
+        "name": "FULLWIDTH LATIN CAPITAL LETTER H"
+      }
+    ]
+  },
+  {
+    "raw": "ACME​ GmbH",
+    "escaped": "ACME\\u200b GmbH",
+    "codepoints": [
+      {
+        "char": "A",
+        "codepoint": "U+0041",
+        "name": "LATIN CAPITAL LETTER A"
+      },
+      {
+        "char": "C",
+        "codepoint": "U+0043",
+        "name": "LATIN CAPITAL LETTER C"
+      },
+      {
+        "char": "M",
+        "codepoint": "U+004D",
+        "name": "LATIN CAPITAL LETTER M"
+      },
+      {
+        "char": "E",
+        "codepoint": "U+0045",
+        "name": "LATIN CAPITAL LETTER E"
+      },
+      {
+        "char": "​",
+        "codepoint": "U+200B",
+        "name": "ZERO WIDTH SPACE"
+      },
+      {
+        "char": " ",
+        "codepoint": "U+0020",
+        "name": "SPACE"
+      },
+      {
+        "char": "G",
+        "codepoint": "U+0047",
+        "name": "LATIN CAPITAL LETTER G"
+      },
+      {
+        "char": "m",
+        "codepoint": "U+006D",
+        "name": "LATIN SMALL LETTER M"
+      },
+      {
+        "char": "b",
+        "codepoint": "U+0062",
+        "name": "LATIN SMALL LETTER B"
+      },
+      {
+        "char": "H",
+        "codepoint": "U+0048",
+        "name": "LATIN CAPITAL LETTER H"
+      }
+    ]
+  },
+  {
+    "raw": "İstanbul Tekstil",
+    "escaped": "\\u0130stanbul Tekstil",
+    "codepoints": [
+      {
+        "char": "İ",
+        "codepoint": "U+0130",
+        "name": "LATIN CAPITAL LETTER I WITH DOT ABOVE"
+      },
+      {
+        "char": "s",
+        "codepoint": "U+0073",
+        "name": "LATIN SMALL LETTER S"
+      },
+      {
+        "char": "t",
+        "codepoint": "U+0074",
+        "name": "LATIN SMALL LETTER T"
+      },
+      {
+        "char": "a",
+        "codepoint": "U+0061",
+        "name": "LATIN SMALL LETTER A"
+      },
+      {
+        "char": "n",
+        "codepoint": "U+006E",
+        "name": "LATIN SMALL LETTER N"
+      },
+      {
+        "char": "b",
+        "codepoint": "U+0062",
+        "name": "LATIN SMALL LETTER B"
+      },
+      {
+        "char": "u",
+        "codepoint": "U+0075",
+        "name": "LATIN SMALL LETTER U"
+      },
+      {
+        "char": "l",
+        "codepoint": "U+006C",
+        "name": "LATIN SMALL LETTER L"
+      },
+      {
+        "char": " ",
+        "codepoint": "U+0020",
+        "name": "SPACE"
+      },
+      {
+        "char": "T",
+        "codepoint": "U+0054",
+        "name": "LATIN CAPITAL LETTER T"
+      },
+      {
+        "char": "e",
+        "codepoint": "U+0065",
+        "name": "LATIN SMALL LETTER E"
+      },
+      {
+        "char": "k",
+        "codepoint": "U+006B",
+        "name": "LATIN SMALL LETTER K"
+      },
+      {
+        "char": "s",
+        "codepoint": "U+0073",
+        "name": "LATIN SMALL LETTER S"
+      },
+      {
+        "char": "t",
+        "codepoint": "U+0074",
+        "name": "LATIN SMALL LETTER T"
+      },
+      {
+        "char": "i",
+        "codepoint": "U+0069",
+        "name": "LATIN SMALL LETTER I"
+      },
+      {
+        "char": "l",
+        "codepoint": "U+006C",
+        "name": "LATIN SMALL LETTER L"
+      }
+    ]
+  },
+  {
+    "raw": "ΣΟΦΙΑ ΑΕ",
+    "escaped": "\\u03a3\\u039f\\u03a6\\u0399\\u0391\\xa0\\u0391\\u0395",
+    "codepoints": [
+      {
+        "char": "Σ",
+        "codepoint": "U+03A3",
+        "name": "GREEK CAPITAL LETTER SIGMA"
+      },
+      {
+        "char": "Ο",
+        "codepoint": "U+039F",
+        "name": "GREEK CAPITAL LETTER OMICRON"
+      },
+      {
+        "char": "Φ",
+        "codepoint": "U+03A6",
+        "name": "GREEK CAPITAL LETTER PHI"
+      },
+      {
+        "char": "Ι",
+        "codepoint": "U+0399",
+        "name": "GREEK CAPITAL LETTER IOTA"
+      },
+      {
+        "char": "Α",
+        "codepoint": "U+0391",
+        "name": "GREEK CAPITAL LETTER ALPHA"
+      },
+      {
+        "char": " ",
+        "codepoint": "U+00A0",
+        "name": "NO-BREAK SPACE"
+      },
+      {
+        "char": "Α",
+        "codepoint": "U+0391",
+        "name": "GREEK CAPITAL LETTER ALPHA"
+      },
+      {
+        "char": "Ε",
+        "codepoint": "U+0395",
+        "name": "GREEK CAPITAL LETTER EPSILON"
+      }
+    ]
+  },
+  {
+    "raw": "software ag",
+    "escaped": "software\\xa0ag",
+    "codepoints": [
+      {
+        "char": "s",
+        "codepoint": "U+0073",
+        "name": "LATIN SMALL LETTER S"
+      },
+      {
+        "char": "o",
+        "codepoint": "U+006F",
+        "name": "LATIN SMALL LETTER O"
+      },
+      {
+        "char": "f",
+        "codepoint": "U+0066",
+        "name": "LATIN SMALL LETTER F"
+      },
+      {
+        "char": "t",
+        "codepoint": "U+0074",
+        "name": "LATIN SMALL LETTER T"
+      },
+      {
+        "char": "w",
+        "codepoint": "U+0077",
+        "name": "LATIN SMALL LETTER W"
+      },
+      {
+        "char": "a",
+        "codepoint": "U+0061",
+        "name": "LATIN SMALL LETTER A"
+      },
+      {
+        "char": "r",
+        "codepoint": "U+0072",
+        "name": "LATIN SMALL LETTER R"
+      },
+      {
+        "char": "e",
+        "codepoint": "U+0065",
+        "name": "LATIN SMALL LETTER E"
+      },
+      {
+        "char": " ",
+        "codepoint": "U+00A0",
+        "name": "NO-BREAK SPACE"
+      },
+      {
+        "char": "a",
+        "codepoint": "U+0061",
+        "name": "LATIN SMALL LETTER A"
+      },
+      {
+        "char": "g",
+        "codepoint": "U+0067",
+        "name": "LATIN SMALL LETTER G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "row_count": 246,
+  "example_groups": {
+    "ACME GmbH": [
+      "ACME GmbH",
+      "ＡＣＭＥ　ＧｍｂＨ",
+      "ACME​ GmbH",
+      "  acme   gmbh ",
+      "ＡＣＭＥ　ＧＭＢＨ",
+      "Acme GmbH."
+    ],
+    "Müller GmbH": [
+      "Müller GmbH",
+      "MÜLLER GMBH",
+      "Muller GmbH",
+      "Ｍüｌｌｅｒ　GmbH"
+    ],
+    "北京华为技术有限公司": [
+      "北京华为技术有限公司",
+      "北京 华为 技术 有限公司",
+      "北京华为技术有限公司​"
+    ],
+    "SOFTWARE AG": [
+      "Software AG",
+      "SOFTWARE AG",
+      "Ｓｏｆｔｗａｒｅ　ＡＧ",
+      "software ag"
+    ]
+  },
+  "ambiguous_group": [
+    "ACME-Corp",
+    "ACME Corp",
+    "ACME_Corp"
+  ],
+  "notes": [
+    "全角与半角、零宽字符、NBSP/表意空格、大小写、首尾空白都保留在原始值中。",
+    "“ACME-Corp” / “ACME Corp” / “ACME_Corp” 只有在规则主动去掉标点与下划线时才会合并。",
+    "空值/纯空白应进入空键区，不得与正常实体混在一起。"
+  ]
+}

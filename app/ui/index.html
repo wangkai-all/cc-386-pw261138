@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NormLink · 跨系统字符串归一与关联</title>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<header class="top">
+  <h1>NormLink</h1>
+  <span class="sub">跨系统字符串归一 · 关联 · 人工裁决</span>
+  <span class="spacer"></span>
+  <span class="pill" id="gen-pill">规则世代加载中…</span>
+  <span class="pill" id="raw-pill">原值服务加载中…</span>
+  <span class="pill" id="rel-pill">关联发布加载中…</span>
+</header>
+<nav class="tabs" id="tabs">
+  <button data-tab="overview">总览</button>
+  <button data-tab="rules">规则世代</button>
+  <button data-tab="conflicts">碰撞与裁决</button>
+  <button data-tab="builds">构建与发布</button>
+  <button data-tab="reports">关联报告</button>
+  <button data-tab="intake">录入数据</button>
+</nav>
+<main id="view"></main>
+<div class="toast-wrap" id="toasts"></div>
+<script src="/app.js"></script>
+</body>
+</html>
